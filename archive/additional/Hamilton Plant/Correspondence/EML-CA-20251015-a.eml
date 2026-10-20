@@ -1,0 +1,15 @@
+From: Jennifer Walsh <jennifer.walsh@qscp.example.invalid>
+To: Robert Hendricks <robert.hendricks@qscp.example.invalid>
+Date: Wed, 15 Oct 2025 09:00:00 -0400
+Subject: ATU-100 inspection status - Q3 2025
+Message-ID: <14ec0f4c92889943f5d3ad1a@qscp.example.invalid>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+
+Please find the Q3 2025 inspection status for the ATU-100. Per QSCP-IP-ATU100 Rev 4, we are monitoring several lines with active nonconformances. Regarding QSCP-NCR-2024-031, the 6-month re-measurement of 4-RA-101 detailed in LNDE-RPT-20250811-029-R0 confirms the corrosion rate remains within the FFS assumption; this line is scheduled for replacement during the August 2026 turnaround.
+
+Additionally, we are tracking QSCP-NCR-2024-032 for 2-RF-102, where four CMLs are below t-min. As per the updated plan, 2-RF-102 is due for re-measurement in November 2025.
+
+Regards,  Jennifer Walsh
+
+Jennifer Walsh, Inspection Coordinator, API 570 inspector, QSCP Hamilton Inspection Department

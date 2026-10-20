@@ -1,0 +1,230 @@
+Larkhall NDE Services Inc.
+Site: Hamilton Plant
+Inspection Report
+No.: LNDE-FN-20241025-031 | Status: Issued | Date: 2024-11-04
+
+Field Notes - ATU-100 UT Thickness Survey, WO-20241025-031
+
+Scope and Execution
+Between 4 and 7 November 2024, Larkhall NDE Services Inc. performed a ultrasonic thickness survey at the Hamilton Plant, covering 150 CMLs across the ATU-100. Marcus Chen acted as the lead UT technician for the field work, ensuring all measurements were executed in accordance with QSCP-NDT-001 Rev 3. This procedure includes specific requirements for CML-id formatting, digital data export, and mandatory photo documentation of the gauge display for any readings falling below the alert level.
+Safety protocols were established under LNDE-JSA-20241025-031, which provided the job safety analysis for this 5-year survey cycle. The scope included carbon steel lines 6-SG-101, 6-SG-102, 8-TG-101, 4-LA-101, 4-LA-102, 6-LA-103, 4-RA-101, 4-RA-102, 6-RA-103, 3-RV-101, 2-RV-102, 4-LA-104, 4-RA-104, 2-ST-101, 3-CW-101, and 3-CW-102. Additionally, stainless steel lines 3-RF-101 and 2-RF-102 were inspected using the specific velocity settings for A312 TP316 material as required by the site procedure.
+
+Technical Data and Design Limits
+The survey evaluated several high-pressure and high-temperature circuits. The sour gas inlet lines 6-SG-101 and 6-SG-102 are designed for 1965 kPa(g) at 66 °C, while the lean amine supply lines 4-LA-101, 4-LA-102, and header 6-LA-103 are rated for 2413 kPa(g) at 93 °C. The treated gas line 8-TG-101 has a design limit of 1896 kPa(g) at 60 °C. For the regenerator overhead, 3-RV-101 and 2-RV-102 are rated for 345 kPa(g) at 121 °C.
+Exchanger circuits were also assessed, including 4-LA-104 (2758 kPa(g) at 138 °C) and 4-RA-104 (862 kPa(g) at 127 °C). Utility lines included in the survey were the reboiler steam line 2-ST-101, designed for 1034 kPa(g) at 186 °C, and the amine cooler cooling water lines 3-CW-101 and 3-CW-102, both rated for 517 kPa(g) at 49 °C. All measurements were compared against the minimum allowable thickness (t-min) specified for each line class.
+
+Findings and Non-Conformances
+During the survey, five CMLs were identified with readings below their respective t-min values, triggering immediate non-conformance reporting. In the rich amine circuit, CML 4-RA-101-06 recorded a thickness of 3.59 mm, which is below the 3.81 mm t-min for this line. This results in an expired remaining life status based on the site retirement criteria.
+Significant wall loss was also observed in the stainless steel reflux circuit. Line 2-RF-102 showed four locations with expired remaining life: CML 2-RF-102-04 at 1.94 mm, 2-RF-102-05 at 1.92 mm, 2-RF-102-06 at 1.92 mm, and 2-RF-102-07 at 1.86 mm. All these readings are below the 2.16 mm t-min requirement. Marcus Chen has documented these findings with gauge display photographs as per the revised requirements in QSCP-NDT-001 Rev 3.
+
+Inspection Intervals and Compliance
+Remaining life calculations were performed by comparing current readings against t-min and applying the larger of the long-term or short-term corrosion rates. For the Class 1 sour gas lines 6-SG-101 and 6-SG-102, as well as the regenerator overhead lines 3-RV-101 and 2-RV-102, the maximum thickness inspection interval is 5 years. However, under the RBI program, these lines and the rich amine lines 4-RA-101, 4-RA-102, and 6-RA-103 are restricted to a 3-year interval.
+The Class 2 lines, including 8-TG-101, 3-RF-101, and the lean amine circuits 4-LA-101, 4-LA-102, 6-LA-103, and 4-LA-104, are subject to a 10-year maximum thickness interval and a 6-year RBI interval. Class 3 lines 2-ST-101, 3-CW-101, and 3-CW-102 also follow the 6-year RBI cycle. All next inspection dates will be set at half the calculated remaining life or the class maximum, whichever is sooner, ensuring alignment with the Hamilton Plant asset integrity standards.
+
+Thickness readings, measured 2024-11-04
+Line 6-SG-101 | Sour gas inlet | A106 Gr.B | t_nom 7.11 mm | t-min 3.56 mm
+CML | t_nom (mm) | t-min (mm) | Prev. date | Prev. (mm) | Current (mm) | CR LT (mm/y) | CR ST (mm/y) | RL (y) | Next due | Remark
+6-SG-101-01 | 7.11 | 3.56 | 2022-09-16 | 5.82 | 5.64 | 0.052 | 0.057 | 36.2 | 2027-11-04 |
+6-SG-101-02 | 7.11 | 3.56 | 2022-09-16 | 5.42 | 5.12 | 0.067 | 0.077 | 20.2 | 2027-11-04 |
+6-SG-101-03 | 7.11 | 3.56 | 2022-09-16 | 5.29 | 5.25 | 0.064 | 0.061 | 26.5 | 2027-11-04 |
+6-SG-101-04 | 7.11 | 3.56 | 2022-09-16 | 5.19 | 4.98 | 0.074 | 0.071 | 19.3 | 2027-11-04 |
+6-SG-101-05 | 7.11 | 3.56 | 2022-09-16 | 4.72 | 4.65 | 0.087 | 0.077 | 12.5 | 2027-11-04 |
+6-SG-101-06 | 7.11 | 3.56 | 2022-09-16 | 5.55 | 5.39 | 0.059 | 0.034 | 31.2 | 2027-11-04 |
+6-SG-101-07 | 7.11 | 3.56 | 2022-09-16 | 6.16 | 6.04 | 0.040 | 0.040 | >50 | 2027-11-04 |
+6-SG-101-08 | 7.11 | 3.56 | 2022-09-16 | 5.57 | 5.54 | 0.058 | 0.046 | 34.4 | 2027-11-04 |
+
+Line 6-SG-102 | Sour gas inlet | A106 Gr.B | t_nom 7.11 mm | t-min 3.56 mm
+CML | t_nom (mm) | t-min (mm) | Prev. date | Prev. (mm) | Current (mm) | CR LT (mm/y) | CR ST (mm/y) | RL (y) | Next due | Remark
+6-SG-102-01 | 7.11 | 3.56 | 2022-09-16 | 4.77 | 4.62 | 0.088 | 0.085 | 12.1 | 2027-11-04 |
+6-SG-102-02 | 7.11 | 3.56 | 2022-09-16 | 4.64 | 4.59 | 0.088 | 0.101 | 10.2 | 2027-11-04 |
+6-SG-102-03 | 7.11 | 3.56 | 2022-09-16 | 4.69 | 4.45 | 0.090 | 0.093 | 9.6 | 2027-11-04 | gauge photo attached
+6-SG-102-04 | 7.11 | 3.56 | 2022-09-16 | 4.62 | 4.39 | 0.091 | 0.101 | 8.2 | 2027-11-04 | gauge photo attached
+6-SG-102-05 | 7.11 | 3.56 | 2022-09-16 | 5.96 | 5.89 | 0.043 | 0.036 | >50 | 2027-11-04 |
+6-SG-102-06 | 7.11 | 3.56 | 2022-09-16 | 5.79 | 5.82 | 0.043 | 0.042 | >50 | 2027-11-04 |
+
+Line 8-TG-101 | Treated gas | A106 Gr.B | t_nom 8.18 mm | t-min 4.06 mm
+CML | t_nom (mm) | t-min (mm) | Prev. date | Prev. (mm) | Current (mm) | CR LT (mm/y) | CR ST (mm/y) | RL (y) | Next due | Remark
+8-TG-101-01 | 8.18 | 4.06 | 2019-10-18 | 7.63 | 7.57 | 0.022 | 0.012 | >50 | 2030-11-04 |
+8-TG-101-02 | 8.18 | 4.06 | 2019-10-18 | 7.33 | 7.21 | 0.035 | 0.024 | >50 | 2030-11-04 |
+8-TG-101-03 | 8.18 | 4.06 | 2019-10-18 | 7.37 | 7.27 | 0.033 | 0.020 | >50 | 2030-11-04 |
+8-TG-101-04 | 8.18 | 4.06 | 2019-10-18 | 7.38 | 7.29 | 0.028 | 0.018 | >50 | 2030-11-04 |
+8-TG-101-05 | 8.18 | 4.06 | 2019-10-18 | 7.57 | 7.54 | 0.024 | 0.006 | >50 | 2030-11-04 |
+8-TG-101-06 | 8.18 | 4.06 | 2019-10-18 | 7.75 | 7.61 | 0.028 | 0.028 | >50 | 2030-11-04 |
+8-TG-101-07 | 8.18 | 4.06 | 2019-10-18 | 7.17 | 6.98 | 0.047 | 0.038 | >50 | 2030-11-04 |
+
+Line 4-LA-101 | Lean amine supply | A106 Gr.B | t_nom 6.02 mm | t-min 3.18 mm
+CML | t_nom (mm) | t-min (mm) | Prev. date | Prev. (mm) | Current (mm) | CR LT (mm/y) | CR ST (mm/y) | RL (y) | Next due | Remark
+4-LA-101-01 | 6.02 | 3.18 | 2019-10-18 | 4.70 | 4.46 | 0.053 | 0.048 | 24.0 | 2030-11-04 |
+4-LA-101-02 | 6.02 | 3.18 | 2019-10-18 | 5.26 | 5.23 | 0.027 | 0.006 | >50 | 2030-11-04 |
+4-LA-101-03 | 6.02 | 3.18 | 2019-10-18 | 5.38 | 5.19 | 0.027 | 0.038 | >50 | 2030-11-04 |
+4-LA-101-04 | 6.02 | 3.18 | 2019-10-18 | 5.29 | 5.13 | 0.033 | 0.032 | >50 | 2030-11-04 |
+4-LA-101-05 | 6.02 | 3.18 | 2019-10-18 | 5.38 | 5.25 | 0.027 | 0.026 | >50 | 2030-11-04 |
+4-LA-101-06 | 6.02 | 3.18 | 2019-10-18 | 5.22 | 4.91 | 0.040 | 0.061 | 28.2 | 2030-11-04 |
+4-LA-101-07 | 6.02 | 3.18 | 2019-10-18 | 4.86 | 4.49 | 0.052 | 0.073 | 17.9 | 2030-11-04 |
+4-LA-101-08 | 6.02 | 3.18 | 2019-10-18 | 5.04 | 4.70 | 0.067 | 0.067 | 22.6 | 2030-11-04 |
+4-LA-101-09 | 6.02 | 3.18 | 2019-10-18 | 4.86 | 4.57 | 0.049 | 0.057 | 24.2 | 2030-11-04 |
+
+Line 4-LA-102 | Lean amine supply | A106 Gr.B | t_nom 6.02 mm | t-min 3.18 mm
+CML | t_nom (mm) | t-min (mm) | Prev. date | Prev. (mm) | Current (mm) | CR LT (mm/y) | CR ST (mm/y) | RL (y) | Next due | Remark
+4-LA-102-01 | 6.02 | 3.18 | 2019-10-18 | 5.09 | 5.03 | 0.035 | 0.012 | >50 | 2030-11-04 |
+4-LA-102-02 | 6.02 | 3.18 | 2019-10-18 | 5.15 | 5.08 | 0.035 | 0.014 | >50 | 2030-11-04 |
+4-LA-102-03 | 6.02 | 3.18 | 2019-10-18 | 5.15 | 4.93 | 0.040 | 0.044 | 40.2 | 2030-11-04 |
+4-LA-102-04 | 6.02 | 3.18 | 2019-10-18 | 4.65 | 4.40 | 0.055 | 0.050 | 22.0 | 2030-11-04 |
+4-LA-102-05 | 6.02 | 3.18 | 2019-10-18 | 5.23 | 5.06 | 0.033 | 0.034 | >50 | 2030-11-04 |
+4-LA-102-06 | 6.02 | 3.18 | 2019-10-18 | 5.52 | 5.42 | 0.020 | 0.020 | >50 | 2030-11-04 |
+4-LA-102-07 | 6.02 | 3.18 | 2019-10-18 | 5.32 | 5.13 | 0.030 | 0.038 | >50 | 2030-11-04 |
+4-LA-102-08 | 6.02 | 3.18 | 2019-10-18 | 5.55 | 5.38 | 0.037 | 0.034 | >50 | 2030-11-04 |
+
+Line 6-LA-103 | Lean amine header | A106 Gr.B | t_nom 7.11 mm | t-min 3.56 mm
+CML | t_nom (mm) | t-min (mm) | Prev. date | Prev. (mm) | Current (mm) | CR LT (mm/y) | CR ST (mm/y) | RL (y) | Next due | Remark
+6-LA-103-01 | 7.11 | 3.56 | 2019-10-18 | 6.40 | 6.27 | 0.026 | 0.026 | >50 | 2030-11-04 |
+6-LA-103-02 | 7.11 | 3.56 | 2019-10-18 | 6.49 | 6.28 | 0.032 | 0.042 | >50 | 2030-11-04 |
+6-LA-103-03 | 7.11 | 3.56 | 2019-10-18 | 6.23 | 5.95 | 0.039 | 0.055 | 43.1 | 2030-11-04 |
+6-LA-103-04 | 7.11 | 3.56 | 2019-10-18 | 5.85 | 5.64 | 0.053 | 0.042 | 39.0 | 2030-11-04 |
+6-LA-103-05 | 7.11 | 3.56 | 2019-10-18 | 5.81 | 5.43 | 0.061 | 0.075 | 24.8 | 2030-11-04 |
+6-LA-103-06 | 7.11 | 3.56 | 2019-10-18 | 5.46 | 5.10 | 0.072 | 0.071 | 21.4 | 2030-11-04 |
+6-LA-103-07 | 7.11 | 3.56 | 2019-10-18 | 5.93 | 5.73 | 0.051 | 0.040 | 42.9 | 2030-11-04 |
+6-LA-103-08 | 7.11 | 3.56 | 2019-10-18 | 6.19 | — | — | — | — | — | inaccessible – no reading
+6-LA-103-09 | 7.11 | 3.56 | 2019-10-18 | 6.16 | 5.92 | 0.048 | 0.048 | 49.6 | 2030-11-04 |
+6-LA-103-10 | 7.11 | 3.56 | 2019-10-18 | 6.00 | 5.74 | 0.064 | 0.051 | 34.0 | 2030-11-04 |
+
+Line 4-RA-101 | Rich amine | A106 Gr.B | t_nom 8.56 mm | t-min 3.81 mm
+CML | t_nom (mm) | t-min (mm) | Prev. date | Prev. (mm) | Current (mm) | CR LT (mm/y) | CR ST (mm/y) | RL (y) | Next due | Remark
+4-RA-101-01 | 8.56 | 3.81 | 2022-09-16 | 6.83 | 6.50 | 0.070 | 0.156 | 17.2 | 2027-11-04 |
+4-RA-101-02 | 8.56 | 3.81 | 2022-09-16 | 6.79 | 6.46 | 0.073 | 0.184 | 14.4 | 2027-11-04 |
+4-RA-101-03 | 8.56 | 3.81 | 2022-09-16 | 5.98 | 5.52 | 0.108 | 0.222 | 7.7 | 2027-11-04 | gauge photo attached
+4-RA-101-04 | 8.56 | 3.81 | 2022-09-16 | 7.21 | 6.90 | 0.060 | 0.127 | 24.4 | 2027-11-04 |
+4-RA-101-05 | 8.56 | 3.81 | 2022-09-16 | 6.73 | 6.37 | 0.078 | 0.160 | 16.0 | 2027-11-04 |
+4-RA-101-06 | 8.56 | 3.81 | 2019-10-18 | 6.94 | 3.59 | 0.427 | 0.664 | expired | immediate | < t-min; gauge photo attached
+4-RA-101-07 | 8.56 | 3.81 | 2022-09-16 | 7.50 | 7.21 | 0.048 | 0.093 | 36.5 | 2027-11-04 |
+4-RA-101-08 | 8.56 | 3.81 | 2022-09-16 | 5.55 | 5.06 | 0.126 | 0.275 | 4.5 | 2027-02-10 | gauge photo attached
+4-RA-101-09 | 8.56 | 3.81 | 2022-09-16 | 7.37 | 7.17 | 0.049 | 0.101 | 33.3 | 2027-11-04 |
+4-RA-101-10 | 8.56 | 3.81 | 2022-09-16 | 7.19 | 6.91 | 0.061 | 0.127 | 24.5 | 2027-11-04 |
+4-RA-101-11 | 8.56 | 3.81 | 2022-09-16 | 6.07 | 5.53 | 0.110 | 0.224 | 7.7 | 2027-11-04 | gauge photo attached
+4-RA-101-12 | 8.56 | 3.81 | 2022-09-16 | 6.41 | 6.10 | 0.184 | 0.184 | 12.4 | 2027-11-04 |
+
+Line 4-RA-102 | Rich amine | A106 Gr.B | t_nom 8.56 mm | t-min 3.81 mm
+CML | t_nom (mm) | t-min (mm) | Prev. date | Prev. (mm) | Current (mm) | CR LT (mm/y) | CR ST (mm/y) | RL (y) | Next due | Remark
+4-RA-102-01 | 8.56 | 3.81 | 2022-09-16 | 7.42 | 7.33 | 0.042 | 0.050 | >50 | 2027-11-04 |
+4-RA-102-02 | 8.56 | 3.81 | 2022-09-16 | 6.43 | 5.99 | 0.090 | 0.192 | 11.3 | 2027-11-04 |
+4-RA-102-03 | 8.56 | 3.81 | 2022-09-16 | 6.56 | 6.24 | 0.081 | 0.160 | 15.1 | 2027-11-04 |
+4-RA-102-04 | 8.56 | 3.81 | 2022-09-16 | 6.64 | 6.38 | 0.075 | 0.131 | 19.7 | 2027-11-04 |
+4-RA-102-05 | 8.56 | 3.81 | 2022-09-16 | 6.56 | 6.23 | 0.081 | 0.164 | 14.7 | 2027-11-04 |
+4-RA-102-06 | 8.56 | 3.81 | 2022-09-16 | 6.65 | 6.35 | 0.075 | 0.158 | 16.0 | 2027-11-04 |
+4-RA-102-07 | 8.56 | 3.81 | 2022-09-16 | 6.85 | 6.53 | 0.072 | 0.153 | 17.8 | 2027-11-04 |
+4-RA-102-08 | 8.56 | 3.81 | 2022-09-16 | 5.86 | 5.26 | 0.113 | 0.226 | 6.4 | 2027-11-04 | gauge photo attached
+4-RA-102-09 | 8.56 | 3.81 | 2022-09-16 | 6.42 | 6.04 | 0.088 | 0.147 | 15.2 | 2027-11-04 |
+4-RA-102-10 | 8.56 | 3.81 | 2022-09-16 | 6.86 | 6.56 | 0.158 | 0.158 | 17.4 | 2027-11-04 |
+4-RA-102-11 | 8.56 | 3.81 | 2022-09-16 | 7.33 | 7.19 | 0.073 | 0.105 | 32.2 | 2027-11-04 |
+
+Line 6-RA-103 | Rich amine header | A106 Gr.B | t_nom 10.97 mm | t-min 4.57 mm
+CML | t_nom (mm) | t-min (mm) | Prev. date | Prev. (mm) | Current (mm) | CR LT (mm/y) | CR ST (mm/y) | RL (y) | Next due | Remark
+6-RA-103-01 | 10.97 | 4.57 | 2022-09-16 | 9.55 | 9.28 | 0.060 | 0.109 | 43.2 | 2027-11-04 |
+6-RA-103-02 | 10.97 | 4.57 | 2022-09-16 | 7.97 | 7.33 | 0.131 | 0.254 | 10.9 | 2027-11-04 |
+6-RA-103-03 | 10.97 | 4.57 | 2022-09-16 | 8.95 | 8.44 | 0.089 | 0.208 | 18.6 | 2027-11-04 |
+6-RA-103-04 | 10.97 | 4.57 | 2022-09-16 | 7.30 | 6.60 | 0.153 | 0.321 | 6.3 | 2027-11-04 | gauge photo attached
+6-RA-103-05 | 10.97 | 4.57 | 2022-09-16 | 7.43 | 6.91 | 0.141 | 0.281 | 8.3 | 2027-11-04 | gauge photo attached
+6-RA-103-06 | 10.97 | 4.57 | 2022-09-16 | 9.45 | 9.16 | 0.065 | 0.125 | 36.8 | 2027-11-04 |
+6-RA-103-07 | 10.97 | 4.57 | 2022-09-16 | 9.15 | 8.89 | 0.073 | 0.139 | 31.2 | 2027-11-04 |
+6-RA-103-08 | 10.97 | 4.57 | 2022-09-16 | 9.29 | 9.07 | 0.066 | 0.131 | 34.4 | 2027-11-04 |
+6-RA-103-09 | 10.97 | 4.57 | 2022-09-16 | 9.43 | 9.10 | 0.067 | 0.135 | 33.6 | 2027-11-04 |
+6-RA-103-10 | 10.97 | 4.57 | 2022-09-16 | 7.68 | 7.00 | 0.140 | 0.271 | 9.0 | 2027-11-04 | gauge photo attached
+6-RA-103-11 | 10.97 | 4.57 | 2019-10-18 | 8.91 | 5.92 | 0.413 | 0.592 | 2.3 | 2025-12-25 | gauge photo attached
+6-RA-103-12 | 10.97 | 4.57 | 2022-09-16 | 9.11 | 8.74 | 0.154 | 0.154 | 27.0 | 2027-11-04 |
+6-RA-103-13 | 10.97 | 4.57 | 2022-09-16 | 9.13 | 8.92 | 0.112 | 0.125 | 34.9 | 2027-11-04 |
+6-RA-103-14 | 10.97 | 4.57 | 2022-09-16 | 7.34 | 6.52 | 0.345 | 0.345 | 5.7 | 2027-09-02 | gauge photo attached
+
+Line 3-RV-101 | Regenerator overhead | A106 Gr.B | t_nom 7.62 mm | t-min 3.56 mm
+CML | t_nom (mm) | t-min (mm) | Prev. date | Prev. (mm) | Current (mm) | CR LT (mm/y) | CR ST (mm/y) | RL (y) | Next due | Remark
+3-RV-101-01 | 7.62 | 3.56 | 2022-09-16 | 5.92 | 5.74 | 0.065 | 0.061 | 33.8 | 2027-11-04 |
+3-RV-101-02 | 7.62 | 3.56 | 2022-09-16 | 5.81 | 5.70 | 0.065 | 0.053 | 32.8 | 2027-11-04 |
+3-RV-101-03 | 7.62 | 3.56 | 2022-09-16 | 4.98 | 4.72 | 0.098 | 0.103 | 11.3 | 2027-11-04 |
+3-RV-101-04 | 7.62 | 3.56 | 2022-09-16 | 5.39 | 5.18 | 0.084 | 0.079 | 19.3 | 2027-11-04 |
+3-RV-101-05 | 7.62 | 3.56 | 2022-09-16 | 5.91 | 5.84 | 0.064 | 0.053 | 35.7 | 2027-11-04 |
+3-RV-101-06 | 7.62 | 3.56 | 2022-09-16 | 5.39 | 5.22 | 0.083 | 0.065 | 20.1 | 2027-11-04 |
+3-RV-101-07 | 7.62 | 3.56 | 2022-09-16 | 4.80 | 4.63 | 0.111 | 0.087 | 9.6 | 2027-11-04 | gauge photo attached
+3-RV-101-08 | 7.62 | 3.56 | 2022-09-16 | 5.81 | 5.64 | 0.076 | 0.044 | 27.5 | 2027-11-04 |
+
+Line 2-RV-102 | Regenerator overhead | A106 Gr.B | t_nom 5.54 mm | t-min 2.79 mm
+CML | t_nom (mm) | t-min (mm) | Prev. date | Prev. (mm) | Current (mm) | CR LT (mm/y) | CR ST (mm/y) | RL (y) | Next due | Remark
+2-RV-102-01 | 5.54 | 2.79 | 2022-09-16 | 3.91 | 3.76 | 0.062 | 0.079 | 12.2 | 2027-11-04 |
+2-RV-102-02 | 5.54 | 2.79 | 2022-09-16 | 3.64 | 3.49 | 0.073 | 0.073 | 9.6 | 2027-11-04 | gauge photo attached
+2-RV-102-03 | 5.54 | 2.79 | 2022-09-16 | 4.34 | 4.23 | 0.044 | 0.028 | 33.0 | 2027-11-04 |
+2-RV-102-04 | 5.54 | 2.79 | 2022-09-16 | 4.47 | 4.39 | 0.042 | 0.040 | 38.5 | 2027-11-04 |
+2-RV-102-05 | 5.54 | 2.79 | 2022-09-16 | 4.59 | 4.57 | 0.033 | 0.042 | 42.8 | 2027-11-04 |
+2-RV-102-06 | 5.54 | 2.79 | 2022-09-16 | 4.05 | 3.94 | 0.062 | 0.065 | 17.6 | 2027-11-04 |
+
+Line 3-RF-101 | Reflux | A312 TP316 | t_nom 5.49 mm | t-min 2.41 mm
+CML | t_nom (mm) | t-min (mm) | Prev. date | Prev. (mm) | Current (mm) | CR LT (mm/y) | CR ST (mm/y) | RL (y) | Next due | Remark
+3-RF-101-01 | 5.49 | 2.41 | 2019-10-18 | 5.40 | 5.15 | 0.012 | 0.050 | >50 | 2030-11-04 |
+3-RF-101-02 | 5.49 | 2.41 | 2019-10-18 | 5.38 | 5.24 | 0.007 | 0.028 | >50 | 2030-11-04 |
+3-RF-101-03 | 5.49 | 2.41 | 2019-10-18 | 5.35 | 5.35 | 0.003 | 0.000 | >50 | 2030-11-04 |
+3-RF-101-04 | 5.49 | 2.41 | 2019-10-18 | 5.29 | 5.21 | 0.009 | 0.016 | >50 | 2030-11-04 |
+3-RF-101-05 | 5.49 | 2.41 | 2019-10-18 | 5.17 | 5.14 | 0.011 | 0.006 | >50 | 2030-11-04 |
+3-RF-101-06 | 5.49 | 2.41 | 2019-10-18 | 5.12 | 5.13 | 0.014 | -0.002 | >50 | 2030-11-04 |
+3-RF-101-07 | 5.49 | 2.41 | 2019-10-18 | 5.38 | 5.25 | 0.006 | 0.026 | >50 | 2030-11-04 |
+3-RF-101-08 | 5.49 | 2.41 | 2019-10-18 | 5.23 | 5.12 | 0.022 | 0.022 | >50 | 2030-11-04 |
+3-RF-101-09 | 5.49 | 2.41 | 2019-10-18 | 5.13 | 5.10 | 0.002 | 0.006 | >50 | 2030-11-04 |
+
+Line 2-RF-102 | Reflux | A312 TP316 | t_nom 3.91 mm | t-min 2.16 mm
+CML | t_nom (mm) | t-min (mm) | Prev. date | Prev. (mm) | Current (mm) | CR LT (mm/y) | CR ST (mm/y) | RL (y) | Next due | Remark
+2-RF-102-01 | 3.91 | 2.16 | 2019-10-18 | 3.66 | 3.55 | 0.013 | 0.022 | >50 | 2030-11-04 |
+2-RF-102-02 | 3.91 | 2.16 | 2019-10-18 | 3.65 | 3.53 | 0.012 | 0.024 | >50 | 2030-11-04 |
+2-RF-102-03 | 3.91 | 2.16 | 2019-10-18 | 3.68 | 3.65 | 0.010 | 0.006 | >50 | 2030-11-04 |
+2-RF-102-04 | 3.91 | 2.16 | 2019-10-18 | 2.83 | 1.94 | 0.067 | 0.176 | expired | immediate | < t-min; gauge photo attached
+2-RF-102-05 | 3.91 | 2.16 | 2019-10-18 | 2.88 | 1.92 | 0.159 | 0.190 | expired | immediate | < t-min; gauge photo attached
+2-RF-102-06 | 3.91 | 2.16 | 2019-10-18 | 2.74 | 1.92 | 0.160 | 0.162 | expired | immediate | < t-min; gauge photo attached
+2-RF-102-07 | 3.91 | 2.16 | 2019-10-18 | 2.82 | 1.86 | 0.073 | 0.190 | expired | immediate | < t-min; gauge photo attached
+
+Line 4-LA-104 | L/R exchanger, lean side | A106 Gr.B | t_nom 6.02 mm | t-min 3.18 mm
+CML | t_nom (mm) | t-min (mm) | Prev. date | Prev. (mm) | Current (mm) | CR LT (mm/y) | CR ST (mm/y) | RL (y) | Next due | Remark
+4-LA-104-01 | 6.02 | 3.18 | 2019-10-18 | 5.16 | 5.02 | 0.037 | 0.028 | >50 | 2030-11-04 |
+4-LA-104-02 | 6.02 | 3.18 | 2019-10-18 | 4.79 | 4.55 | 0.052 | 0.048 | 26.5 | 2030-11-04 |
+4-LA-104-03 | 6.02 | 3.18 | 2019-10-18 | 5.23 | 5.20 | 0.027 | 0.006 | >50 | 2030-11-04 |
+4-LA-104-04 | 6.02 | 3.18 | 2019-10-18 | 5.49 | 5.34 | 0.025 | 0.030 | >50 | 2030-11-04 |
+4-LA-104-05 | 6.02 | 3.18 | 2019-10-18 | 4.71 | 4.37 | 0.058 | 0.067 | 17.7 | 2030-11-04 |
+4-LA-104-06 | 6.02 | 3.18 | 2019-10-18 | 5.38 | 5.17 | 0.032 | 0.042 | 47.8 | 2030-11-04 |
+4-LA-104-07 | 6.02 | 3.18 | 2019-10-18 | 5.15 | 4.92 | 0.038 | 0.046 | 38.2 | 2030-11-04 |
+4-LA-104-08 | 6.02 | 3.18 | 2019-10-18 | 4.88 | 4.63 | 0.046 | 0.050 | 29.3 | 2030-11-04 |
+4-LA-104-09 | 6.02 | 3.18 | 2019-10-18 | 4.61 | 4.37 | 0.048 | 0.048 | 25.0 | 2030-11-04 |
+4-LA-104-10 | 6.02 | 3.18 | 2019-10-18 | 4.63 | 4.32 | 0.060 | 0.061 | 18.6 | 2030-11-04 |
+
+Line 4-RA-104 | L/R exchanger, rich side | A106 Gr.B | t_nom 8.56 mm | t-min 3.81 mm
+CML | t_nom (mm) | t-min (mm) | Prev. date | Prev. (mm) | Current (mm) | CR LT (mm/y) | CR ST (mm/y) | RL (y) | Next due | Remark
+4-RA-104-01 | 8.56 | 3.81 | 2022-09-16 | 6.61 | 6.33 | 0.076 | 0.162 | 15.5 | 2027-11-04 |
+4-RA-104-02 | 8.56 | 3.81 | 2022-09-16 | 7.04 | 6.84 | 0.060 | 0.093 | 32.5 | 2027-11-04 |
+4-RA-104-03 | 8.56 | 3.81 | 2022-09-16 | 7.70 | 7.67 | 0.065 | 0.053 | >50 | 2027-11-04 |
+4-RA-104-04 | 8.56 | 3.81 | 2022-09-16 | 7.31 | 6.98 | 0.109 | 0.131 | 24.2 | 2027-11-04 |
+4-RA-104-05 | 8.56 | 3.81 | 2022-09-16 | 7.12 | 6.74 | 0.119 | 0.164 | 17.8 | 2027-11-04 |
+4-RA-104-06 | 8.56 | 3.81 | 2022-09-16 | 6.70 | 6.41 | 0.076 | 0.143 | 18.2 | 2027-11-04 |
+4-RA-104-07 | 8.56 | 3.81 | 2022-09-16 | 6.04 | 5.61 | 0.104 | 0.210 | 8.6 | 2027-11-04 | gauge photo attached
+4-RA-104-08 | 8.56 | 3.81 | 2022-09-16 | 7.09 | 6.90 | 0.093 | 0.111 | 27.9 | 2027-11-04 |
+
+Line 2-ST-101 | Reboiler steam | A106 Gr.B | t_nom 3.91 mm | t-min 2.29 mm
+CML | t_nom (mm) | t-min (mm) | Prev. date | Prev. (mm) | Current (mm) | CR LT (mm/y) | CR ST (mm/y) | RL (y) | Next due | Remark
+2-ST-101-01 | 3.91 | 2.29 | 2019-10-18 | 3.59 | 3.42 | 0.018 | 0.034 | 33.6 | 2030-11-04 |
+2-ST-101-02 | 3.91 | 2.29 | 2019-10-18 | 3.34 | 3.19 | 0.025 | 0.030 | 30.3 | 2030-11-04 |
+2-ST-101-03 | 3.91 | 2.29 | 2019-10-18 | 3.68 | — | — | — | — | — | inaccessible – no reading
+2-ST-101-04 | 3.91 | 2.29 | 2019-10-18 | 3.52 | 3.50 | 0.011 | 0.004 | >50 | 2030-11-04 |
+2-ST-101-05 | 3.91 | 2.29 | 2019-10-18 | 3.27 | 3.22 | 0.024 | 0.010 | 38.6 | 2030-11-04 |
+2-ST-101-06 | 3.91 | 2.29 | 2019-10-18 | 3.66 | 3.66 | -0.003 | 0.000 | >50 | 2030-11-04 |
+
+Line 3-CW-101 | Amine cooler CW | A106 Gr.B | t_nom 5.49 mm | t-min 2.79 mm
+CML | t_nom (mm) | t-min (mm) | Prev. date | Prev. (mm) | Current (mm) | CR LT (mm/y) | CR ST (mm/y) | RL (y) | Next due | Remark
+3-CW-101-01 | 5.49 | 2.79 | 2019-10-18 | 4.91 | 4.79 | 0.022 | 0.024 | >50 | 2030-11-04 |
+3-CW-101-02 | 5.49 | 2.79 | 2019-10-18 | 4.98 | 4.69 | 0.025 | 0.057 | 33.1 | 2030-11-04 |
+3-CW-101-03 | 5.49 | 2.79 | 2019-10-18 | 4.87 | 4.63 | 0.031 | 0.048 | 38.7 | 2030-11-04 |
+3-CW-101-04 | 5.49 | 2.79 | 2019-10-18 | 5.20 | 5.22 | 0.008 | -0.004 | >50 | 2030-11-04 |
+3-CW-101-05 | 5.49 | 2.79 | 2019-10-18 | 5.14 | 5.19 | 0.010 | -0.010 | >50 | 2030-11-04 |
+3-CW-101-06 | 5.49 | 2.79 | 2019-10-18 | 5.01 | 4.91 | 0.019 | 0.020 | >50 | 2030-11-04 |
+
+Line 3-CW-102 | Amine cooler CW | A106 Gr.B | t_nom 5.49 mm | t-min 2.79 mm
+CML | t_nom (mm) | t-min (mm) | Prev. date | Prev. (mm) | Current (mm) | CR LT (mm/y) | CR ST (mm/y) | RL (y) | Next due | Remark
+3-CW-102-01 | 5.49 | 2.79 | 2019-10-18 | 4.85 | 4.77 | 0.025 | 0.016 | >50 | 2030-11-04 |
+3-CW-102-02 | 5.49 | 2.79 | 2019-10-18 | 4.17 | 4.09 | 0.050 | 0.016 | 26.2 | 2030-11-04 |
+3-CW-102-03 | 5.49 | 2.79 | 2019-10-18 | 4.27 | 4.12 | 0.049 | 0.030 | 27.0 | 2030-11-04 |
+3-CW-102-04 | 5.49 | 2.79 | 2019-10-18 | 4.50 | 4.29 | 0.043 | 0.042 | 35.2 | 2030-11-04 |
+3-CW-102-05 | 5.49 | 2.79 | 2019-10-18 | 4.45 | 4.35 | 0.036 | 0.020 | 43.9 | 2030-11-04 |
+
+Sign-off | Name | Function | Date | Signature
+Prepared | Marcus Chen | lead UT technician, SNT-TC-1A UT/MT/PT/VT Level II; CAN/CGSB-48.9712 UT Level II | 2024-11-04 | ______________

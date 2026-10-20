@@ -1,0 +1,17 @@
+From: Gordon Lisle <gordon.lisle@qscp.example.invalid>
+To: Douglas Ferreira <douglas.ferreira@qscp.example.invalid>
+Date: Fri, 14 Sep 2007 09:00:00 -0400
+Subject: Leak on 2-RV-102 elbow - line isolated, clamp fitted
+Message-ID: <6fbf5df53e46c8c1282c154b@qscp.example.invalid>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+
+Dear Douglas,
+
+A pinhole leak was identified at a 90° elbow on line 2-RV-102 within the ATU-100. As there was no CML at this specific elbow location, the leak was not predicted by current data. The line has been isolated and a temporary clamp fitted to maintain integrity.
+
+This line is a Class 1 regenerator overhead service with a t-min of 2.79 mm. We need to review the existing QSCP-IP-ATU100 Rev 0 to determine if additional monitoring locations are required for this circuit to prevent future loss of containment.
+
+Regards,  Gordon Lisle Douglas Ferreira
+
+Gordon Lisle, Unit Engineer ATU-100, P.Eng., QSCP Hamilton Inspection Department

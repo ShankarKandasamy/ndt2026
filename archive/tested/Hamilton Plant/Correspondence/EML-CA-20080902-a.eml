@@ -1,0 +1,17 @@
+From: Gordon Lisle <gordon.lisle@qscp.example.invalid>
+To: Robert Hendricks <robert.hendricks@qscp.example.invalid>
+Date: Tue, 02 Sep 2008 09:00:00 -0400
+Subject: ATU-100 unit engineer handover
+Message-ID: <0a5330084090a8ca215af3a2@qscp.example.invalid>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+
+Dear Robert,
+
+As I transition out of the role, I am handing over the integrity files for the ATU-100. Please review QSCP-RCA-2007-002 regarding the 2-RV-102 elbow leak caused by localized acid gas condensation. The investigation identified that CMLs were previously restricted to straight runs, which missed the thinning at the fitting.
+
+In response, we issued QSCP-IP-ATU100 Rev 1 to update the piping inspection plan. We have added 20 fitting CMLs for a total of 138 points and set the regenerator overhead circuit to a 3-year interval. The failed elbow has been replaced and the new monitoring locations are now active in the database.
+
+Best regards,  Gordon Lisle Unit Engineer ATU-100, P.Eng. To: Robert Hendricks
+
+Gordon Lisle, Unit Engineer ATU-100, P.Eng., QSCP Hamilton Inspection Department

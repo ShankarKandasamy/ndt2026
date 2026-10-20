@@ -1,0 +1,17 @@
+From: Robert Hendricks <robert.hendricks@qscp.example.invalid>
+To: Jennifer Walsh <jennifer.walsh@qscp.example.invalid>
+Date: Fri, 08 Nov 2024 09:00:00 -0500
+Subject: Dispositions for NCR-2024-031 and NCR-2024-032
+Message-ID: <21ef0c979e80e59713c20f5f@qscp.example.invalid>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+
+Dear Jennifer,
+
+I have recorded the engineering assessments and dispositions for QSCP-NCR-2024-031 and QSCP-NCR-2024-032 within the ATU-100. For 4-RA-101, continued operation is permitted pending PAUT mapping and a fitness-for-service assessment. Regarding 2-RF-102, the degradation is identified as localized velocity-assisted ammonium bisulfide corrosion downstream of the reflux flow-control valve, resulting from the 2014 throughput increase. A reflux-water sample confirmed 3 wt% NH4HS, and XRF PMI verified the material as 316 stainless steel.
+
+Under QSCP-CIS-001, the assessment for 2-RF-102 confirms the minimum wall of 1.9 mm is well above the B31.3 pressure-design thickness of 0.2 mm. With the addition of a support at the valve station, the structural limit is 1.3 mm. At a corrosion rate of 0.18 mm/y, the line will remain above this limit until after the August 2026 turnaround. The disposition requires a 12-month re-measurement and full replacement of the downstream section during the 2026 turnaround, or sooner if projected by the next survey.
+
+Best regards,  Robert Hendricks Jennifer Walsh
+
+Robert Hendricks, Unit Engineer ATU-100, P.Eng., QSCP Hamilton Inspection Department

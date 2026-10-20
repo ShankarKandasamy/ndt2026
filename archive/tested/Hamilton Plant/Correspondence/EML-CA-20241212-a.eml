@@ -1,0 +1,17 @@
+From: Jennifer Walsh <jennifer.walsh@qscp.example.invalid>
+To: Priya Natarajan <priya.natarajan@cie.example.invalid>
+Date: Thu, 12 Dec 2024 09:00:00 -0500
+Subject: FFS request - 4-RA-101 local metal loss
+Message-ID: <3aa4082438874768359ad26e@qscp.example.invalid>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+
+Dear Priya,
+
+We are requesting a Fitness-for-Service assessment from CIE regarding localized metal loss on line 4-RA-101 in the ATU-100. As documented in QSCP-NCR-2024-031, a reading at 4-RA-101-06 was recorded at 3.59 mm, which is below the 3.81 mm t-min for this rich amine service. Subsequent PAUT corrosion mapping detailed in LNDE-RPT-20241202-036-R0 confirmed a minimum thickness of 3.55 mm at the elbow.
+
+Please evaluate the remaining strength of this component based on the design conditions of 862 kPa(g) and 82 °C. We require your recommendation on the suitability for continued operation until the next planned outage. Please address the submittal to Priya Natarajan for formal review.
+
+Jennifer Walsh
+
+Jennifer Walsh, Inspection Coordinator, API 570 inspector, QSCP Hamilton Inspection Department
