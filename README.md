@@ -14,7 +14,7 @@ generator that wrote it.
 |---|---|
 | `archive/tested/` | The 238 records the tests ran on, as PDF, Word, Excel and e-mail files. |
 | `archive/additional/` | 521 further records from the same history (routine datasheets, certificates, permits, e-mails), rendered after the study. They were not used in any test. |
-| `QUESTIONS.md`, `questions_240.csv` | Test 1's 240 questions: which were tested, filled but not drawn, or dropped, with the per-question results for the 90 tested. |
+| `QUESTIONS.md`, `questions_240.csv` | Test 1's 240 questions: which were tested, filled but not drawn, or dropped, with the per-question results for the 90 tested, and separately labelled predicted values (not test results) for 61 untested questions, from the scores of similar tested questions. |
 | `results/test1-results.md` | Test 1 results by family, by number of identifier steps, by wording, language and entry point, with paired bootstrap intervals. |
 | `results/figures/` | The figures from the paper. |
 
