@@ -1,0 +1,161 @@
+id,measure,score,number,question
+Q001,PageRank,High,1,"Which document sits at the top of the Ontario inspection hierarchy, the one the procedures and plans themselves implement?"
+Q002,PageRank,High,2,What corporate requirement do both the ATU-100 plan and the Anlage 21 Prüfplan ultimately trace back to?
+Q003,PageRank,High,3,Which standard would an auditor read first to understand every piping inspection rule at QSCP?
+Q004,PageRank,High,4,"If only one document in the archive could be kept, which one would let you rebuild the inspection rules?"
+Q005,PageRank,High,5,Which document do the inspection plans cite as their basis for setting thickness inspection intervals?
+Q006,PageRank,High,6,Which document defines how t-min is to be calculated across the whole programme?
+Q007,PageRank,High,7,What is the parent document that QSCP-NDT-001 implements?
+Q008,PageRank,High,8,"Which document governs how FFS assessments are commissioned, at both sites?"
+Q009,PageRank,High,9,Which record sets the acceptance criteria that every UT thickness procedure refers to?
+Q010,PageRank,High,10,"Which document defines the roles of the Level 3, the contractor and the plant inspector for the whole programme?"
+Q011,PageRank,Low,1,What did the field notes for WO-20241025-031 record at CML 2-RF-102-05?
+Q012,PageRank,Low,2,Which permit covered the scaffolding for the 2022 survey of 6-SG-102?
+Q013,PageRank,Low,3,What did the transmittal for LNDE-RPT-20260803-034-R0 say about distribution?
+Q014,PageRank,Low,4,Who signed RLW-PB-2023-0144?
+Q015,PageRank,Low,5,Which photos were taken during the 2025 re-measurement of 2-RF-102?
+Q016,PageRank,Low,6,What was the ambient temperature recorded on the February 2016 survey of 4-LA-101?
+Q017,PageRank,Low,7,Which CMLs on 3-CW-101 were marked inaccessible in the last survey?
+Q018,PageRank,Low,8,What did the cover email for the 2024 disposition of NCR-2024-032 say?
+Q019,PageRank,Low,9,Which work order number was used for the 2023 PT examination on NR-21-L-0401?
+Q020,PageRank,Low,10,What remarks did the inspector add at the end of the last 8-TG-101 survey?
+Q021,Betweenness,High,1,What requirements do the Ontario and Lower Rhine thickness programmes share?
+Q022,Betweenness,High,2,"If the corporate integrity standard changes, which site plans, procedures and contractors are affected?"
+Q023,Betweenness,High,3,Which single decision explains why 4-RA-101 and 2-RF-102 both got spool replacements in the 2026 turnaround?
+Q024,Betweenness,High,4,Where was corporate engineering's FFS practice applied at the German site?
+Q025,Betweenness,High,5,Which record connects the change of NDE contractor at Ontario to the procedures the new contractor adopted?
+Q026,Betweenness,High,6,Which document disposed of NCR-2024-031 and NCR-2024-032 together?
+Q027,Betweenness,High,7,Which record links the 2014 amine-strength change to the inspection programme on 4-RA-101?
+Q028,Betweenness,High,8,What connects the Lower Rhine BetrSichV interval determination to the corporate standard?
+Q029,Betweenness,High,9,Which records would an auditor follow to get from a corrosion finding to the turnaround scope?
+Q030,Betweenness,High,10,Which document ties the 2024-2026 degradation campaign back to the routine survey programme?
+Q031,Betweenness,Low,1,What were the readings at CML 2-RF-102-05 in October 2024?
+Q032,Betweenness,Low,2,Which calibration certificate covered the gauge on the 2022 survey of 6-SG-102?
+Q033,Betweenness,Low,3,Was the inspector who signed RLW-PB-2023-0144 certified on that date?
+Q034,Betweenness,Low,4,What did the last survey of 8-TG-101 find?
+Q035,Betweenness,Low,5,What was the original indication sizing before LNDE-RPT-20220906-033 was revised?
+Q036,Betweenness,Low,6,Which probe was used on the 2023 Prüfbericht for NR-21-L-0401?
+Q037,Betweenness,Low,7,What thickness was recorded at the lowest CML on 3-RV-101 in its last survey?
+Q038,Betweenness,Low,8,Which pages are missing from the scanned copy of the 2016 4-LA-101 survey?
+Q039,Betweenness,Low,9,What surface condition was noted on 6-LA-103 in its last survey?
+Q040,Betweenness,Low,10,Which CMLs were added to 2-ST-101 in its most recent survey?
+Q041,Degree,High,1,Which procedure were most Ontario thickness surveys performed under?
+Q042,Degree,High,2,Which inspection plan covers the most lines on ATU-100?
+Q043,Degree,High,3,Which UT instrument appears in the most survey reports at Lower Rhine?
+Q044,Degree,High,4,Which contractor procedure is cited most often in the 2015-2024 Prüfberichte?
+Q045,Degree,High,5,Which document would be affected by nearly every survey in the archive if it were withdrawn?
+Q046,Degree,High,6,Which plan revision did the most Ontario surveys rely on between 2018 and 2025?
+Q047,Degree,High,7,Which calibration block is referenced across the most procedures and reports?
+Q048,Degree,High,8,Which inspector signed the most reports at Ontario?
+Q049,Degree,High,9,Which standard is cited by almost every German record?
+Q050,Degree,High,10,Which document is the most common reference in NCRs raised at Ontario?
+Q051,Degree,Low,1,"Which record set the inspection interval for 8-TG-101, even though it is rarely cited?"
+Q052,Degree,Low,2,Which MOC from 2014 changed the amine strength on ATU-100?
+Q053,Degree,Low,3,Which single email carried the engineering disposition for NCR-2024-032?
+Q054,Degree,Low,4,Which FFS assessed 6-RA-103 in 2025?
+Q055,Degree,Low,5,Which one-off memo deferred the inspection of an inaccessible CML?
+Q056,Degree,Low,6,Which record approved operating NR-21-L-0207 below the Werksnorm minimum?
+Q057,Degree,Low,7,Which document set the interval for NR-21-L-0207 after the 2023 finding?
+Q058,Degree,Low,8,Which training record covers the PAUT qualification used on 2-RF-102?
+Q059,Degree,Low,9,Which superseded procedure revision was used only once?
+Q060,Degree,Low,10,Which baseline report documents the replacement spools fitted in 2026?
+Q061,HITS authority,High,1,Which procedure do the well-referenced survey reports rely on for UT thickness measurement?
+Q062,HITS authority,High,2,Which plan revision do the survey reports on ATU-100 consistently cite as their basis?
+Q063,HITS authority,High,3,Which Prüfanweisung do the Anlage 21 Prüfberichte rely on?
+Q064,HITS authority,High,4,"Which FFS do the NCR, the plan revision and the MOC all point to for 4-RA-101?"
+Q065,HITS authority,High,5,Which document do the inspection plans and the RBI review both rely on for interval rules?
+Q066,HITS authority,High,6,Which acceptance standard do the NCRs cite when declaring a CML below t-min?
+Q067,HITS authority,High,7,"Which corrosion assessment do the hazard review, the plan and the FFS all rely on?"
+Q068,HITS authority,High,8,Which Prüfkonzept do the Lower Rhine plans and reports both depend on?
+Q069,HITS authority,High,9,Which record do the turnaround scope documents rely on to justify the spool replacements?
+Q070,HITS authority,High,10,Which document do the 2024-2026 campaign records rely on as their technical basis?
+Q071,HITS authority,Low,1,"Which survey report cites the most procedures, plans and standards at once?"
+Q072,HITS authority,Low,2,Which transmittal lists every document sent to the client in 2024?
+Q073,HITS authority,Low,3,Which index or register page lists the plan revisions?
+Q074,HITS authority,Low,4,Which corporate summary report references both sites' programmes?
+Q075,HITS authority,Low,5,Which document control log records the 2025 plan revision issue?
+Q076,HITS authority,Low,6,Which survey report bundles three lines into one document?
+Q077,HITS authority,Low,7,"Which report cites the procedure, the plan and the instrument but is cited by nothing?"
+Q078,HITS authority,Low,8,Which distribution email forwarded the 2026 baseline report?
+Q079,HITS authority,Low,9,Which monthly status report lists the open NCRs?
+Q080,HITS authority,Low,10,"Which cover sheet references the FFS, the NCR and the MOC together?"
+Q081,Community membership,High,1,List every survey ever done on 2-RF-102.
+Q082,Community membership,High,2,Which reports cover the 2024-2026 degradation campaign on 2-RF-102 and 4-RA-101?
+Q083,Community membership,High,3,Which NCRs were raised on 4-RA-101?
+Q084,Community membership,High,4,What re-measurements followed the 2024 finding on 2-RF-102?
+Q085,Community membership,High,5,Which Prüfberichte cover NR-21-L-0207?
+Q086,Community membership,High,6,Which surveys did the first Ontario contractor perform on ATU-100?
+Q087,Community membership,High,7,Which field notes belong to the October 2024 ATU-100 survey campaign?
+Q088,Community membership,High,8,Which records belong to the 2026 turnaround spool replacement on 4-RA-101?
+Q089,Community membership,High,9,What is the inspection history of 6-SG-102?
+Q090,Community membership,High,10,Which reports did RLW issue for Anlage 21 in 2023?
+Q091,Community membership,Low,1,Which procedure governs the inspection of 2-RF-102?
+Q092,Community membership,Low,2,Which inspection plan sets the scope for 4-RA-101?
+Q093,Community membership,Low,3,Which calibration certificate covered the gauge used on 6-SG-102?
+Q094,Community membership,Low,4,Which personnel certificate covered the inspector on RLW-PB-2023-0144?
+Q095,Community membership,Low,5,Which corporate standard applies to NR-21-L-0207?
+Q096,Community membership,Low,6,Which Prüfanweisung governed the 2023 examination on NR-21-L-0401?
+Q097,Community membership,Low,7,Which training record qualifies the PAUT operator on the 2-RF-102 follow-up?
+Q098,Community membership,Low,8,Which RBI review set the interval for 8-TG-101?
+Q099,Community membership,Low,9,Which procedure revision was in force for the February 2016 survey of 4-LA-101?
+Q100,Community membership,Low,10,Which standard defines the t-min used in NCR-2024-031?
+Q101,Personalized PageRank,High,1,What records should I read before the next inspection of 4-RA-101?
+Q102,Personalized PageRank,High,2,What governs the inspection of 2-RF-102?
+Q103,Personalized PageRank,High,3,What happened on 6-RA-103 after its 2025 FFS?
+Q104,Personalized PageRank,High,4,Which documents would an auditor pull for NR-21-L-0207?
+Q105,Personalized PageRank,High,5,What records explain the current interval for 8-TG-101?
+Q106,Personalized PageRank,High,6,Which decisions affected 2-RF-102 between 2024 and 2026?
+Q107,Personalized PageRank,High,7,What is the full paper trail for the 2024 below-t-min finding on 4-RA-101?
+Q108,Personalized PageRank,High,8,What should a new inspector read to understand 6-SG-102?
+Q109,Personalized PageRank,High,9,Which records justify operating NR-21-L-0207 below minimum?
+Q110,Personalized PageRank,High,10,Which documents describe the replacement spools on 2-RF-102?
+Q111,Personalized PageRank,Low,1,Which lines at Lower Rhine use the same procedure as 4-RA-101 does at Ontario?
+Q112,Personalized PageRank,Low,2,Is there a comparable case at the other site to the 2-RF-102 finding?
+Q113,Personalized PageRank,Low,3,What did the plant baseline survey look like before 4-RA-101 had any history?
+Q114,Personalized PageRank,Low,4,Which lines on ATU-100 have never had a finding?
+Q115,Personalized PageRank,Low,5,Which other units follow the corporate integrity standard?
+Q116,Personalized PageRank,Low,6,"What does the archive say about thickness programmes in general, not for one line?"
+Q117,Personalized PageRank,Low,7,Which records at Lower Rhine have nothing to do with Anlage 21 piping?
+Q118,Personalized PageRank,Low,8,Which contractor handled the inspections before LNDE?
+Q119,Personalized PageRank,Low,9,Which records show how the corporate standard was originally drafted?
+Q120,Personalized PageRank,Low,10,Which line has the least in common with 4-RA-101's history?
+Q121,Line governance reach,High,1,Where does the inspection frequency for 8-TG-101 actually come from?
+Q122,Line governance reach,High,2,Which records do the surveys on 4-RA-101 ultimately rest on?
+Q123,Line governance reach,High,3,"What governs the inspection of 6-SG-102, the procedure, the plan and what they implement?"
+Q124,Line governance reach,High,4,Which decision ultimately sets the interval on 4-RA-101?
+Q125,Line governance reach,High,5,Which Prüfanweisung and Prüfplan govern NR-21-L-0209?
+Q126,Line governance reach,High,6,Which interval determination governs the Anlage 21 lines under BetrSichV?
+Q127,Line governance reach,High,7,Which plan revision governs the current inspection of 2-RF-102?
+Q128,Line governance reach,High,8,Which FFS do the later surveys on 6-RA-103 depend on?
+Q129,Line governance reach,High,9,Which RBI review is upstream of the ATU-100 plan?
+Q130,Line governance reach,High,10,What is the chain of authority behind the last survey on NR-21-L-0207?
+Q131,Line governance reach,Low,1,What did the last survey on 4-RA-101 actually measure?
+Q132,Line governance reach,Low,2,Which photos exist for 2-RF-102?
+Q133,Line governance reach,Low,3,Which transmittals were sent for 6-SG-102 reports?
+Q134,Line governance reach,Low,4,Which permits were issued for work on 8-TG-101?
+Q135,Line governance reach,Low,5,What remarks did inspectors add on NR-21-L-0209 surveys?
+Q136,Line governance reach,Low,6,Which scanned copies exist of the 2016 4-LA-101 survey?
+Q137,Line governance reach,Low,7,Which emails discuss scheduling access to 3-CW-102?
+Q138,Line governance reach,Low,8,Which field notes were taken on 2-ST-101?
+Q139,Line governance reach,Low,9,Which CMLs on NR-21-L-0418 were measured in the last campaign?
+Q140,Line governance reach,Low,10,Which reports mention 4-RA-101 only in passing?
+Q141,Node dependants,High,1,"If QSCP-NDT-001 Rev 3 proved defective, which records were produced under it?"
+Q142,Node dependants,High,2,"If the calibration block used by LNDE was out of tolerance, which reports are affected?"
+Q143,Node dependants,High,3,"If RLW-PA-UT-07 Rev 3 had the wrong sensitivity setting, which Prüfberichte must be reviewed?"
+Q144,Node dependants,High,4,"If the inspector's Level 2 certificate was invalid, which reports need re-signing?"
+Q145,Node dependants,High,5,"If IP-ATU100 Rev 3 had the wrong interval, which surveys were scheduled from it?"
+Q146,Node dependants,High,6,Which procedure revision has the largest re-inspection exposure if found defective?
+Q147,Node dependants,High,7,"If the gauge RLW-UT-31 was miscalibrated, which examinations used it?"
+Q148,Node dependants,High,8,"If the t-min basis in the corporate standard was wrong, which NCRs need reassessment?"
+Q149,Node dependants,High,9,Which records rely on CIE-FFS-2025-004-R0?
+Q150,Node dependants,High,10,"If NR-PP-21 Rev 2 is withdrawn, which examinations lose their basis?"
+Q151,Node dependants,Low,1,Which survey report is the most recent on 8-TG-101?
+Q152,Node dependants,Low,2,Which draft revision was superseded before it was ever used?
+Q153,Node dependants,Low,3,Which NCR attachments were never cited after close-out?
+Q154,Node dependants,Low,4,Which one-off memo was filed but never referenced?
+Q155,Node dependants,Low,5,Which latest Prüfbericht on NR-21-L-0430 has not yet been reviewed?
+Q156,Node dependants,Low,6,Which field notes were never turned into a formal report?
+Q157,Node dependants,Low,7,Which superseded plan revision has no records produced under it?
+Q158,Node dependants,Low,8,Which photo set from the 2026 turnaround is not referenced by any report?
+Q159,Node dependants,Low,9,Which certificate expired without any report relying on it?
+Q160,Node dependants,Low,10,Which records could be archived without affecting any other record?
